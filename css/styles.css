@@ -1,5 +1,6 @@
  .odd {
-        background:rgba(51, 170, 51, .7);
+        background: green;
+        border-style: solid;
         height: 50px;
         width: 45%;
         float: left;
